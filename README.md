@@ -1,8 +1,9 @@
+[【Simplified Chinese Introduction】](https://www.mcbbs.net/thread-1463701-1-1.html)
 ![](https://i.postimg.cc/vBFD59WM/XPlus.png) 
 
 ## XPlus FusionCraft: Where Innovation Meets Integration
 
-XPlus FusionCraft is a 1.20.1 vanilla-style modpack based on Forge and the [Sinytra Connector](https://www.curseforge.com/minecraft/mc-mods/sinytra-connector) module from [Sinytra](https://www.mcbbs.net/thread-1462812-1-1.html). It marks a groundbreaking achievement by enabling simultaneous loading of Fabric and Forge mods.
+XPlus FusionCraft is a 1.20.1 vanilla-style modpack based on Forge and the [Sinytra Connector](https://www.curseforge.com/minecraft/mc-mods/sinytra-connector) module from Sinytra. It marks a groundbreaking achievement by enabling simultaneous loading of Fabric and Forge mods.
 **Note: XPlus FusionCraft is currently in its experimental phase. Many features have not been thoroughly tested and could potentially lead to issues such as crashes or corrupted/inaccessible saves. Remember to backup your game data and save files before using it.**
 
 ### Uniting Vanilla with XPlus FusionCraft
