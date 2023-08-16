@@ -1,4 +1,5 @@
 [【Simplified Chinese Introduction】](https://www.mcbbs.net/thread-1463701-1-1.html)
+[【Introduction on CurseForge】](https://legacy.curseforge.com/minecraft/modpacks/xplus-fusioncraft)
 ![](https://i.postimg.cc/vBFD59WM/XPlus.png) 
 
 ## XPlus FusionCraft: Where Innovation Meets Integration
